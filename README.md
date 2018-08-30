@@ -1,5 +1,11 @@
 # Optics Resources
 
+
+### Data 61's Let's Lens course material
+
+- https://github.com/data61/lets-lens
+- https://github.com/qfpl/papa - the Papa custom prelude with many fantastic default Lens combinators
+
 ### Twan van Laarhoven's blog
 
 - https://www.twanvl.nl/blog/haskell/isomorphism-lenses
