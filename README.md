@@ -22,7 +22,7 @@
 
 ### The Haskell Lens Library
 
-- http://r6.ca/blog/20120623T104901Z.html
+- https://hackage.haskell.org/package/lens
 
 ### Russel O'Connor's blog
  
