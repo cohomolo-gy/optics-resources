@@ -1,10 +1,10 @@
 # Optics Resources
 
 
-### Data 61's Let's Lens course material
+### Data 61's Let's Lens course material + Custom Prelude
 
 - https://github.com/data61/lets-lens
-- https://github.com/qfpl/papa - the Papa custom prelude with many fantastic default Lens combinators
+- https://github.com/qfpl/papa
 
 ### Twan van Laarhoven's blog
 
@@ -17,6 +17,7 @@
 ### Edward Kmett's History of Lenses
 
 - https://github.com/ekmett/lens/wiki/History-of-Lenses
+- https://github.com/ekmett/lens/wiki/Derivation
 
 ### Edward Kmett's talk on Lenses 
 
