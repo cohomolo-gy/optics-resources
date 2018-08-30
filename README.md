@@ -41,3 +41,7 @@
 ### Phil Freeman - Fun with Profunctors
 
 - https://www.youtube.com/watch?v=OJtGECfksds
+
+### Oleg Grenrus' Affine Traversal blog
+
+http://oleg.fi/gists/posts/2017-03-20-affine-traversal.html
