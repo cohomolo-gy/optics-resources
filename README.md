@@ -4,6 +4,9 @@
 ### Data 61's Let's Lens course material + Custom Prelude
 
 - https://github.com/data61/lets-lens
+
+### QFPL's Custom Prelude - Papa
+
 - https://github.com/qfpl/papa
 
 ### Twan van Laarhoven's blog
