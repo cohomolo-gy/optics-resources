@@ -38,3 +38,6 @@
  
 - http://r6.ca/blog/20120623T104901Z.html
 
+### Phil Freeman - Fun with Profunctors
+
+- https://www.youtube.com/watch?v=OJtGECfksds
