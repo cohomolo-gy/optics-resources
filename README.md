@@ -9,6 +9,10 @@
 
 - https://github.com/qfpl/papa
 
+### QFPL's Beautiful and Comical George Wilson on Classy Optics
+
+- [next level mtl with classy optics](https://www.youtube.com/watch?v=GZPup5Iuaqw)
+
 ### Twan van Laarhoven's blog
 
 - https://www.twanvl.nl/blog/haskell/isomorphism-lenses
