@@ -34,6 +34,10 @@
 
 - [poptics.pdf](https://github.com/cohomolo-gy/optics-resources/poptics.pdf)
 
+### Tony Morris' Asymmetric Lenses in Scala paper
+
+- [asymmetric](http://days2012.scala-lang.org/sites/days2012/files/morris_lenses.pdf)
+
 ### The Haskell Lens Library
 
 - https://hackage.haskell.org/package/lens
