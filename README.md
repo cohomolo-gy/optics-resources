@@ -32,7 +32,7 @@
 
 ### Jeremy Gibbons' Profunctor Optics paper
 
-- [poptics.pdf] (https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf)
+- [poptics.pdf](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf)
 
 ### Tony Morris' Asymmetric Lenses in Scala paper
 
