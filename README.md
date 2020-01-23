@@ -50,6 +50,6 @@
 
 - https://www.youtube.com/watch?v=OJtGECfksds
 
-### Oleg Grenrus' Affine Traversal blog
+### Oleg Grenrus' Blog (See: the glassery)
 
-http://oleg.fi/gists/posts/2017-03-20-affine-traversal.html
+http://oleg.fi/
