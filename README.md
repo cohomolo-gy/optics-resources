@@ -1,7 +1,7 @@
 # Optics Resources
 
 
-### Data 61's Let's Lens course material + Custom Prelude
+### Data 61's Let's Lens course material
 
 - https://github.com/data61/lets-lens
 
