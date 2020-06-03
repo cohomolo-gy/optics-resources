@@ -1,13 +1,10 @@
 # Optics Resources
 
 
-### Data 61's Let's Lens course material
+### System-f's Let's Lens course material
 
-- https://github.com/data61/lets-lens
+- https://github.com/system-f/lets-lens
 
-### QFPL's Custom Prelude - Papa
-
-- https://github.com/qfpl/papa
 
 ### QFPL's Beautiful and Comical George Wilson on Classy Optics
 
@@ -53,3 +50,10 @@
 ### Oleg Grenrus' Blog (See: the glassery)
 
 http://oleg.fi/
+
+### Category theory of Optics: 
+
+- [Profunctor optics - Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf)
+- [Categories of Optics - Riley](https://arxiv.org/abs/1809.00738)
+- [Understanding Profunctor optics - Boisseau](https://arxiv.org/pdf/2001.11816.pdf)
+- [Profunctor Optics: A categorical update - Milewski, Roman et al](https://arxiv.org/pdf/2001.07488.pdf)
