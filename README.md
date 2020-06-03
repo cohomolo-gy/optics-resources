@@ -6,7 +6,7 @@
 - https://github.com/system-f/lets-lens
 
 
-### QFPL's Beautiful and Comical George Wilson on Classy Optics
+### The Beautiful and Comical George Wilson on Classy Optics
 
 - [next level mtl with classy optics](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 
