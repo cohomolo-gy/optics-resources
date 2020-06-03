@@ -27,10 +27,6 @@
 
 - https://www.youtube.com/watch?v=cefnmjtAolY
 
-### Jeremy Gibbons' Profunctor Optics paper
-
-- [poptics.pdf](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf)
-
 ### Tony Morris' Asymmetric Lenses in Scala paper
 
 - [asymmetric](http://days2012.scala-lang.org/sites/days2012/files/morris_lenses.pdf)
